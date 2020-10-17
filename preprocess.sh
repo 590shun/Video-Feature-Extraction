@@ -19,7 +19,7 @@ dir_in_video=$1
 name_video=$2
 extension_video=$3
 
-frame_rate=60
+frame_rate=30
 
 dir_image=../sample/out/${name_video}/
 name_image=%06d
