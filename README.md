@@ -12,7 +12,7 @@
 (2)CROP_VIDEO: true or false  
 (3)RUN_I3D_PYTORCH: true(固定)
 
-2.video information
+2.video information  
 (1)frame_rate: 動画のframe rateに合わせる  
 (2)dir_image: 切り出した画像の出力先  
 (3)name_image: 切り出した画像に通し番号を付与  
